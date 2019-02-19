@@ -10,6 +10,6 @@
 Parsing link
 -------------
 * [음악](https://www.melon.com/chart/)
-* [영화](https://movie.naver.com/movie/running/current.nhn)
+* [영화](https://movie.naver.com/)
 * [이슈](https://www.naver.com)
-* [게임](https://m.twitch.tv/directory)
+* [게임](https://www.twitch.tv/directory)
