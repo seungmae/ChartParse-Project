@@ -1,5 +1,9 @@
 # chacha
 
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
+      alt="Download from Google Play" 
+      height="80">](https://play.google.com/store/apps/details?id=com.chart.chacha)
+
 <div>
 <img width ="200" src = "https://user-images.githubusercontent.com/47169311/53011565-07a39800-3484-11e9-8f08-d94bd821ff2e.PNG">
 <img width ="200" src = "https://user-images.githubusercontent.com/47169311/53011596-1427f080-3484-11e9-8a51-4257a57d080e.PNG">
